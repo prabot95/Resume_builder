@@ -7,8 +7,6 @@ The application features a responsive design, ensuring a seamless user experienc
 
 This repository contains the frontend and backend code for the Resume Builder project.
 
-## Demo
-Check out the live demo here: https://resume-builder-2024.vercel.app/
 
 Screenshots
 ### 1.Landing Page
