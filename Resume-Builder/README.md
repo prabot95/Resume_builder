@@ -17,8 +17,10 @@ Screenshots
 
 ### 3.Project Section
 ![image](https://github.com/AbhijitKhyade/Resume-Builder-MERN/assets/129264746/c9be87c5-36a2-483c-9a27-99215321fbec)
-### 4.Resume Data
-![image](https://github.com/AbhijitKhyade/Resume-Builder-MERN/assets/129264746/11d307dd-b942-4ff0-a761-1c00726d6911)
+
+### 4. Resume Data
+![image](https://github.com/user-attachments/assets/d28333b6-9d84-4261-b09c-2e0462397ee0)
+
 
 
 ## Technologies Used
